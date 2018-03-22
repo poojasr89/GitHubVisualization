@@ -29,7 +29,11 @@ education_then_and_now_women: OSS_survey_v10.py
 The pattern follows the general trend shown in the previous bar graph but there is a greater decline in women pursuing Master's and PhD degrees compared to their parents.
 
 
+With relationship to my previous analysis, I set out to find how education in parents have affected the education in their children (who are the surveyors in our case).
 
+parents_vs_childrens_education: OSS_survey_v11.py
+
+Blue shows the number of surveyors who have less education than their parents, orange indicates the number of surveyors who have more education than their parents, parents' education is shown on the X-axis. The results are startling. Although there is an increase in the number of people who complete high school, college and even vocational education, there is a drastic decline in the number of people who pursue Masters and PhD. May it be that the cost of these programs is giving rise to such a trend?
 
 
 Tools used: Python Pandas and matplotlib
